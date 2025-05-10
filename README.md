@@ -17,7 +17,7 @@
 `Rishabh Yadav`
 `TempVoice`
 
-<img src="https://cdn.discordapp.com/attachments/1363582269343666476/1370136194947616929/3.gif?ex=681fb7c4&is=681e6644&hm=b342f7dfc6a8c917a585d9cadf8c7f4676854cb25dcb1443bedac2acce3c82fb&"/>
+<img src="https://cdn.discordapp.com/attachments/1179871135425368144/1370566768589930526/2c47d82cd962d1c2.png?ex=681ff745&is=681ea5c5&hm=ec165e443642879ed906f2309d64c1bb1991d3fd5029222d088ba539ee39d950&"/>
 
 
 <div>
