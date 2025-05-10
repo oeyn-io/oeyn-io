@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dongle&size=30&pause=1000&color=A068EA&width=435&lines=You+and+me%2C+what+are+we+if+we+not+together%3F)](https://git.io/typing-svg)
 <img src=https://tempvoice.xyz/embeds/discord/copyright-bar.png/>
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=oeyn-io&show_icons=true&theme=tokyonight)<br>
+![priscilla_abby GitHub stats](https://github-readme-stats.vercel.app/api?username=oeyn-io&show_icons=true&theme=tokyonight)<br>
 
 - [x] **취미로만 즐기는 아기 개발자**
 - [x] **마비노기 모바일에 푹 빠짐**
