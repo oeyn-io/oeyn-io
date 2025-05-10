@@ -6,7 +6,7 @@
 <img src=https://tempvoice.xyz/embeds/discord/copyright-bar.png/>
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=oeyn-io&show_icons=true&theme=tokyonight)<br>
-@
+
 - [x] **취미로만 즐기는 아기 개발자**
 - [x] **마비노기 모바일에 푹 빠짐**
 - [x] **같이 마모에 세계로 고고?**
