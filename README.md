@@ -17,6 +17,9 @@
 `Rishabh Yadav`
 `TempVoice`
 
+<img src="https://cdn.discordapp.com/attachments/1363582269343666476/1370136194947616929/3.gif?ex=681fb7c4&is=681e6644&hm=b342f7dfc6a8c917a585d9cadf8c7f4676854cb25dcb1443bedac2acce3c82fb&"/>
+
+
 <div>
 <img src=https://tempvoice.xyz/embeds/discord/copyright-bar.png/>
 <div align=center><h1>📚 STACKS</h1></div>
